@@ -1,1 +1,1 @@
-Este é um CRUD básico em PHP para um sistema com conexão a um Banco de Dados MYSQL.
+Este é um CRUD básico em php para um sistema com conexão a um Banco de Dados MYSQL.

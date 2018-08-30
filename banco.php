@@ -8,7 +8,9 @@
 *
 *@author Davi Duarte <daviduartedf@gmail.com>
 *@version 1.0
+*
 */
+
 class Banco{
 	private $pdo;
 	private $numRows;
